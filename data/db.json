@@ -1,0 +1,25 @@
+{
+  "orders": [
+    {
+      "name": "Muhammad Haider Bukhari",
+      "fromlocation": "",
+      "tolocation": "",
+      "email": "apshaiderbukhari7861@gmail.com",
+      "data": "23-04-2022",
+      "time": "12:03",
+      "Contact": "0",
+      "price": 0,
+      "status": "Regected",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$JAAgFvheHpbhDQ1f.Jka0.e90zVEcpwX74F1agkZ9a9ijrwWdklU6",
+      "name": "Admin",
+      "contact": "123",
+      "id": 1
+    }
+  ]
+}
